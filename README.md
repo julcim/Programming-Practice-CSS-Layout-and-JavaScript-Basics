@@ -1,2 +1,2 @@
-# Programming-Practice-HTML-and-CSS-Basics
-CIS 3990: Programming Practice: HTML and CSS Basics
+# Programming-Practice-HTML-and-CSS-Basics II
+CIS 3990: Programming Practice: HTML and CSS Basics II
